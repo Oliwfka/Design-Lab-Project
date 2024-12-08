@@ -1,0 +1,3 @@
+../Core/Src/ADC_Handler.c:18:6:ADC_Init	1
+../Core/Src/ADC_Handler.c:23:10:GetGearPosValue	2
+../Core/Src/ADC_Handler.c:32:10:GetAirValue	2

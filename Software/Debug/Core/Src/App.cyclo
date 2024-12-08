@@ -1,0 +1,3 @@
+../Core/Src/App.c:12:6:AppInit	1
+../Core/Src/App.c:19:6:AppHandle	2
+../Core/Src/App.c:36:6:AutoshiftCheck	1
